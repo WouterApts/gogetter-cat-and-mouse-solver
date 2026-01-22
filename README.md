@@ -1,4 +1,4 @@
-# GoGetter-CatAndMouse-Solver
+# gogetter-cat-and-mouse-solver
 Small program that solves puzzles from the "GoGetter™ - Cat &amp; Mouse" boardgame
 
 Cat & Mouse is a puzzle boardgame for one player developed and released by SMART GAMES.
